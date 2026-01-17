@@ -1,7 +1,7 @@
 
 
 void main() {
-  print("Welcome to Dart coding. Today we leaarning final vs const");
+  print("Welcome to Dart coding. Today we learning final vs const");
 
   final name = 'Anil'; // when we use final keyword, we cannot reassign(overwrite) again
 
@@ -27,6 +27,6 @@ void main() {
   gNames.remove("Deepika"); // we can remove
 
   //but in const keyword we can change in compile time
-  //mean we cannot add or remove 
+  //mean we cannot add or remove
 
 }

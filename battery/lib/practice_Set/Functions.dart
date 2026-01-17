@@ -15,7 +15,7 @@ class myClass {  // class
 }
 
 void main() {
-  print("Welcome to Dart coding:");
+  print("Welcome to Dart coding.Today, we Learning Functions");
   var myC = myClass(); //declaration class instance
   myC.myFunc("I am doing dart coding..."); //function calling
   //

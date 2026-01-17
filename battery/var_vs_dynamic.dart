@@ -1,7 +1,7 @@
 import'dart:io';
 
 void main() {
-  stdout.write('Welcome to dart:');
+  stdout.write('Welcome to dart.Today, we Learning Var vs Dynamic Keywords');
 
   //var
   var subject = 'Maths';

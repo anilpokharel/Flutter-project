@@ -1,6 +1,7 @@
 import 'dart:io';
 
 void main () {
+  print('Welcome to Dart coding.Today, We learning Variables');
   //declaration of Variable
   int a;
 

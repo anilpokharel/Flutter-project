@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-
+  print('Welcome to Dart Coding. Today, we Learning Maps');
   var map_name = {
     'key1' : 'value1',
     'num' : 2,

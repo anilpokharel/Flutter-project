@@ -1,6 +1,7 @@
 import 'dart:io';
 
 void main () {
+  print("Welcome to Dart coding. Today, we Learning Lists");
 
   dynamic listNames = [10, 20, 30, 40, 50]; //list
   listNames.add( 78); // add the number in dart list
